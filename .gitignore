@@ -1,0 +1,7 @@
+.idea
+node_modules
+.env
+dist
+*.logs
+scratchpad.ts
+zip_files
